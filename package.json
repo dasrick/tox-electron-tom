@@ -1,0 +1,21 @@
+{
+  "name": "tox-electron-tom",
+  "version": "0.0.0",
+  "description": "personal playground for an electron based app ...",
+  "author": "Enrico Hoffmann <dasrick@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasrick/tox-electron-tom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dasrick/tox-electron-tom/issues"
+  },
+  "homepage": "https://github.com/dasrick/tox-electron-tom#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
