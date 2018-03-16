@@ -1,0 +1,12 @@
+{
+  "productName": "tox-electron-tom",
+  "directories": {
+    "output": "app-builds"
+  },
+  "mac": {
+    "icon": "dist/favicon.icns",
+    "target": [
+      "dmg"
+    ]
+  }
+}
