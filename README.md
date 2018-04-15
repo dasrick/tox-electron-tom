@@ -30,5 +30,5 @@ https://github.com/maximegris/angular-electron
 [license-url]: https://github.com/dasrick/tox-electron-tom/blob/master/LICENSE
 
 
-[tidelift-image]: https://tidelift.com/badges/dasrick/tox-electron-tom/repo?style=flat-square
+[tidelift-image]: https://tidelift.com/badges/github/dasrick/tox-electron-tom?style=flat-square
 [tidelift-url]: https://tidelift.com/repo/github/dasrick/tox-electron-tom
